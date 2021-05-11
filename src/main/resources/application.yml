@@ -1,0 +1,14 @@
+server:
+  port: 8001
+
+spring:
+  data:
+    dynamodb:
+      entity2ddl:
+        auto: create-only
+        readCapacity: 5
+        writeCapacity: 5
+
+diet-advisor:
+  aws:
+    region: eu-west-1
