@@ -1,0 +1,28 @@
+[
+  {
+    "id": "eb6b2440-5359-457c-925c-915db1d554a7",
+    "source": "STRENGTH_FACTORY",
+    "mealNumbers": [
+      5
+    ],
+    "name": "Sałatka z ciecierzycą, makaronem pełnoziarnisty, ogórkiem kiszonym i czerwoną papryką",
+    "kcal": 498,
+    "proteins": 21.479,
+    "carbohydrates": 72.4785,
+    "fats": 10.776,
+    "imageName": "66bccad9-1b11-4257-bad8-4c9b217b6bce.jpg",
+    "productsNamesToQuantities": {
+      "Natka pietruszki": 5,
+      "Makaron pełnoziarnisty": 50,
+      "Cebula": 25,
+      "Oliwa z oliwek": 5,
+      "Ciecierzyca konserwowa": 65,
+      "Cytryna": 5,
+      "Ogórek kiszony": 65,
+      "Papryka czerwona": 60
+    },
+    "recipe": "1. Makaron ugotuj zgodnie z opisem na opakowaniu.\n2. Ogórki i ciecierzycę odsącz z zalewy, pokrój w kostkę.\n3. Paprykę umyj, pokrój w kostkę, cebulę obierz, posiekaj.\n4. Natkę pietruszki opłucz, posiekaj.\n5. Do miski włóż makaron, ciecierzycę, ogórka, paprykę, pietruszkę i cebulę, wymieszaj.\n6. Zmieszaj oliwę z cytryną, dressingiem skrop sałatkę.",
+    "createdAt": "2021-06-05T13:19:57.3982951",
+    "updatedAt": null
+  }
+]
