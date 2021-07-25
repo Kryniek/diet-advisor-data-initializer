@@ -7,3 +7,6 @@ mvn clean install
 ```
 mvn spring-boot:run -Dspring-boot.run.arguments=--spring.profiles.active=dev
 ```
+```
+mvn spring-boot:run -Dspring-boot.run.arguments=--spring.profiles.active=dev-justa
+```
