@@ -2174,5 +2174,30 @@
     "recipe": "Kaszę ugotować wg przepisu na opakowaniu. Paprykę umyć, pokroić w niewielkie słupki. Pomidora sparzyć, obrać ze skórki, pokroić w kostkę. Czosnek obrać, drobno pokroić. Rozgrzać olej na patelni, przesmażyć na nim czosnek z chilli. Dodać pomidora, przecier i paprykę. Całość doprawić solą, pieprzem i ziołami. Odcedzoną kaszę i fasolę dodać na patelnię. Całość wymieszać. Posypać tartym serem.",
     "createdAt": "2021-07-31T10:40:14.5288152",
     "updatedAt": null
+  },
+  {
+    "id": "8178fabb-5490-461c-8079-cb5db60ea8c1",
+    "source": "USER",
+    "mealNumbers": [
+      1
+    ],
+    "name": "Justa - Owsiane placuszki bananowe",
+    "kcal": 445,
+    "proteins": 16.340,
+    "carbohydrates": 69.396,
+    "fats": 13.12,
+    "imageName": null,
+    "productsNamesToQuantities": {
+      "Banan": 120,
+      "Jajko": 50,
+      "Olej rzepakowy": 5,
+      "Płatki owsiane": 40,
+      "Soda oczyszczona": 1,
+      "Miód": 8,
+      "Mąka pszenna typ 500": 12
+    },
+    "recipe": "Banana zblendować z jajkiem i olejem. Dodać mąkę, sodę i płatki owsiane, krótko zblendować. Zostawić na 10-15 minut do napęcznienia płatków. Smażyć na rozgrzanej nieprzywierającej patelni (teflonowej, ceramicznej) na jednej stronie do stężenia górnej warstwy, następnie obrócić na drugą stronę i smażyć jeszcze przez 2 minuty. Podawać z miodem.",
+    "createdAt": "2021-10-26T16:52:05.1043928",
+    "updatedAt": null
   }
 ]
